@@ -5,7 +5,7 @@ This repo demonstrates a workflow that can complete various tasks relavent to co
 There are four modules to this workflow:
 
 1. Fastp: quality control on the raw data by filtering and trimming reads as necessary.
-2. SEKSA: genome assembly with the high quality reads resulting from fastp into contigs.
+2. SKESA: genome assembly with the high quality reads resulting from fastp into contigs.
 3. QUAST: evaluate the quality of the previously made assemblies
 4. MLST: genotyping of the previously made assemblies.
 
