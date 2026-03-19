@@ -1,4 +1,4 @@
-# OldBIOL7210WorkflowHW
+# OldBIOL7210NextflowHW
 This was an assignment to create a workflow using tools we had discussed in class which I copied over from my school git account
 # 🧬 Workflow Assignment BIOL7210 🧬
 This repo demonstrates a workflow that can complete various tasks relavent to computational genomics, specifically when looking at bacterial genomes.
